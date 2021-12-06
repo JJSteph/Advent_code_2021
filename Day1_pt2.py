@@ -3,7 +3,6 @@
 # Day 1 pt 2
 # 12/1/2021
 #  
-puzzle_input = open('./input.txt', 'r')
 
 with open('./input.txt') as f:
     content = f.readlines()
